@@ -299,6 +299,11 @@ p {
     border-color: #f7c08a;
   }
 
+  /* Contact form */
+
+  #contact-form .container > h1 {
+      padding-top: 1rem;
+  }
   
 /* Footer */
 
